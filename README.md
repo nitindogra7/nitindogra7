@@ -46,7 +46,7 @@
 const nitin: FullStackDev = {
   name:         "Nitin Dogra",
   role:         "Full Stack Developer 🚀",
-  location:     "Noida, India 🇮🇳",
+  location:     "Delhi, India 🇮🇳",
   education:    "B.Tech @ MUIT (2023 – present)",
   email:        "dogranitin579@gmail.com",
 
