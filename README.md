@@ -1,200 +1,315 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:0d1117&height=200&section=header&text=NITIN%20DOGRA&fontSize=60&fontColor=00d4ff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20SaaS%20Builder&descAlignY=58&descColor=7fff7f" width="100%"/>
+<!-- ANIMATED HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0d2b,60:001a3d,100:00d4ff&height=250&section=header&text=NITIN%20DOGRA&fontSize=70&fontColor=00d4ff&animation=twinkling&fontAlignY=40&desc=⚡%20Full%20Stack%20Developer%20%7C%20SaaS%20Builder%20%7C%20MERN%20Specialist%20⚡&descAlignY=60&descColor=7fffff&descSize=18" width="100%"/>
 
-<!-- Typing Animation -->
+<!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=600&height=50&lines=Hey+there!+I'm+Nitin+%F0%9F%91%8B;Full+Stack+Developer+%40+MERN+Stack;Building+Scalable+SaaS+Applications;JWT+Auth+%7C+Redis+%7C+Razorpay+Pro;Open+to+Exciting+Opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=650&height=60&lines=Hey+there!+I'm+Nitin+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Stack+%F0%9F%9A%80;Building+Production-Ready+SaaS+Apps+%F0%9F%8F%97%EF%B8%8F;JWT+Auth+%E2%9A%A1+Redis+%E2%9A%A1+Razorpay+%E2%9A%A1+Cloud;420ms+%E2%86%92+140ms+%F0%9F%94%A5+Speed+is+my+love+language;Open+to+Exciting+Opportunities!+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=nitindogra7&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
+<!-- ANIMATED BADGES ROW -->
+<img src="https://komarev.com/ghpvc/?username=nitindogra7&label=Profile+Views&color=00d4ff&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/nitindogra7?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117" alt="Followers"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ff88?style=for-the-badge&labelColor=0d1117" alt="Open to Work"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-ff6b6b?style=for-the-badge&labelColor=0d1117" alt="Focus"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Location-Noida%20India-ff9933?style=for-the-badge&labelColor=0d1117" alt="Location"/>
+
+<br/><br/>
+
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
 ---
 
-<!-- About Section -->
+<!-- ANIMATED DIVIDER -->
 <div align="center">
-<h2>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
-  &nbsp;<span style="color:#00d4ff">About Me</span>
-</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<!-- ABOUT ME CODE BLOCK -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=9999&color=FF6B6B&center=true&vCenter=true&width=300&height=45&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+ABOUT+ME" alt="About Me"/>
 </div>
 
 ```typescript
-const nitin: Developer = {
-  name:        "Nitin Dogra",
-  role:        "Full Stack Developer",
-  location:    "Noida, India 🇮🇳",
-  education:   "B.Tech @ Maharishi University of Information Technology (2023–present)",
-  email:       "dogranitin579@gmail.com",
-  stack:       ["MongoDB", "Express.js", "React.js", "Node.js"],
-  superpower:  "Turning ideas into production-ready SaaS apps 🚀",
-  currentlyBuilding: "AI-Powered Logo Generation SaaS — LogoCraft",
-  funFact:     "I optimized an API from 420ms → 140ms. Speed is my love language ⚡",
+const nitin: FullStackDev = {
+  name:         "Nitin Dogra",
+  role:         "Full Stack Developer 🚀",
+  location:     "Noida, India 🇮🇳",
+  education:    "B.Tech @ MUIT (2023 – present)",
+  email:        "dogranitin579@gmail.com",
+
+  stack:        ["MongoDB", "Express.js", "React.js", "Node.js"],
+  superPower:   "Building SaaS that handles real money, real users, real scale",
+
+  currentProject: {
+    name:      "LogoCraft — AI Logo Generation SaaS",
+    url:       "https://logocraft.nitindogra.space",
+    highlight: "Redis cut API latency by 62.7%  (420ms → 140ms) ⚡",
+  },
+
+  achievements: [
+    "🔐 JWT refresh token rotation with secure session lifecycle",
+    "💳 Razorpay HMAC payment validation in production",
+    "🤖 Google Imagen + Cloudinary async AI media pipeline",
+    "🏦 Credit-based SaaS engine with real-money transactions",
+  ],
+
+  funFact:  "I don't just code features — I architect systems 🏗️",
+  openTo:   "Internships  |  Freelance  |  Full-Time roles",
 };
 ```
 
 ---
 
-<!-- Tech Stack -->
 <div align="center">
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">
-  &nbsp; Tech Arsenal
-</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
+<!-- TECH STACK -->
 <div align="center">
 
-**⚡ Frontend**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=9999&color=00D4FF&center=true&vCenter=true&width=400&height=45&lines=%E2%9A%A1+TECH+ARSENAL+%E2%9A%A1" alt="Tech Stack"/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br/><br/>
 
-**🛠 Backend**
+**🎨 Frontend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend"/>
 
-**🗄 Database & Cache**
+**⚙️ Backend**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend"/>
+&nbsp;
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
+&nbsp;
+<img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MVC%20Architecture-1a1a2e?style=for-the-badge&logoColor=00d4ff" alt="MVC"/>
+
+**🗄️ Database & Cache**
+
+<img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark" alt="DB"/>
 
 **☁️ Cloud, Payments & Tools**
 
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" alt="Tools"/>
+
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="Razorpay"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Google%20Imagen-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Imagen"/>
 
 </div>
 
 ---
 
-<!-- Featured Project -->
 <div align="center">
-<h2>🚀 Featured Project</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<!-- FEATURED PROJECT -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=9999&color=FFD700&center=true&vCenter=true&width=450&height=45&lines=%F0%9F%9A%80+FEATURED+PROJECT" alt="Project"/>
+
 </div>
 
 <div align="center">
 
 ### 🎨 [LOGOCRAFT — AI-Powered Logo Generation SaaS](https://logocraft.nitindogra.space)
 
-> *From concept to production — built solo, ships real.*
-
-</div>
-
-| Feature | Implementation |
-|--------|----------------|
-| 🔐 **Auth System** | Stateless JWT with rotating refresh tokens (HTTP-only cookies), expiry-aware middleware & secure logout |
-| ⚡ **Performance** | Redis caching reduced dashboard latency from **420ms → 140ms** (62.7% faster, 2.5x speedup) |
-| 💳 **Payments** | Razorpay integration with server-side order creation, HMAC signature verification & wallet crediting |
-| 🤖 **AI Pipeline** | Async Google Imagen + Cloudinary pipeline for generation, upload & secure URL delivery |
-| 🏦 **Credit Engine** | Dynamic credit-based consumption — auto-debit on generation, top-up on verified payment |
-| 🛡 **API Security** | Modular MVC architecture with protected routes, CORS allowlisting & `.env` secrets management |
-
-<div align="center">
-
-[![LogoCraft Live](https://img.shields.io/badge/🌐_Live_Demo-logocraft.nitindogra.space-00d4ff?style=for-the-badge&labelColor=0d1117)](https://logocraft.nitindogra.space)
+<a href="https://logocraft.nitindogra.space">
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-logocraft.nitindogra.space-00d4ff?style=for-the-badge&labelColor=0d1117" alt="Live Demo"/>
+</a>
 &nbsp;
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitindogra7)
+<a href="https://github.com/nitindogra7">
+  <img src="https://img.shields.io/badge/SOURCE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
+</a>
 
 </div>
 
----
+<br/>
 
-<!-- GitHub Stats -->
-<div align="center">
-<h2>📊 GitHub Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=nitindogra7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff" width="48%" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitindogra7&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff" width="48%" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitindogra7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="48%" alt="Top Languages"/>
-
-</div>
-
----
-
-<!-- Activity Graph -->
-<div align="center">
-<h2>📈 Contribution Graph</h2>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitindogra7&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b6b&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-
-</div>
-
----
-
-<!-- Achievements -->
-<div align="center">
-<h2>🏆 Achievements</h2>
-</div>
-
-```bash
-$ ./achievements.sh
-
-✅  Built & deployed an AI-powered SaaS solo — real users, real payments, real production
-✅  Engineered JWT auth with refresh token rotation & full session lifecycle management
-✅  Slashed API response time 420ms → 140ms with Redis caching strategy
-✅  Secured real-money Razorpay transactions with HMAC signature verification
-✅  Designed async AI media pipeline (Google Imagen + Cloudinary) end-to-end
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    🎨 LOGOCRAFT ARCHITECTURE                     ║
+╠═══════════════════╦══════════════════════════════════════════════╣
+║  🔐 AUTH          ║  Stateless JWT + Rotating Refresh Tokens     ║
+║                   ║  HTTP-only cookies + Session invalidation     ║
+╠═══════════════════╬══════════════════════════════════════════════╣
+║  ⚡ PERFORMANCE   ║  Redis Caching → 420ms → 140ms              ║
+║                   ║  62.7% latency reduction  |  2.5x faster     ║
+╠═══════════════════╬══════════════════════════════════════════════╣
+║  💳 PAYMENTS      ║  Razorpay + HMAC Signature Verification      ║
+║                   ║  Server-side order creation + Wallet credits  ║
+╠═══════════════════╬══════════════════════════════════════════════╣
+║  🤖 AI PIPELINE   ║  Google Imagen → Cloudinary → Secure URLs    ║
+║                   ║  Async generation + persistent history         ║
+╠═══════════════════╬══════════════════════════════════════════════╣
+║  🏦 CREDITS       ║  Auto-debit on generation + top-up on pay   ║
+║                   ║  Dynamic credit-based consumption engine      ║
+╠═══════════════════╬══════════════════════════════════════════════╣
+║  🏗️ ARCHITECTURE  ║  MVC | Modular Middleware | Protected Routes  ║
+║                   ║  .env secrets | CORS allowlisting             ║
+╚═══════════════════╩══════════════════════════════════════════════╝
 ```
 
 ---
 
-<!-- Certifications -->
 <div align="center">
-<h2>📜 Certifications</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
-![Udemy](https://img.shields.io/badge/Full_Stack_Development-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)
-&nbsp;
-![FreeCodeCamp](https://img.shields.io/badge/JavaScript_Certification-FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
+<!-- GITHUB STATS -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=9999&color=C778DD&center=true&vCenter=true&width=350&height=45&lines=%F0%9F%93%8A+GITHUB+STATS" alt="Stats"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=nitindogra7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&ring_color=00d4ff&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitindogra7&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=c9d1d9" width="49%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitindogra7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8&card_width=500" width="55%" alt="Top Languages"/>
 
 </div>
 
 ---
 
-<!-- Connect -->
+<!-- ACTIVITY GRAPH -->
 <div align="center">
-<h2>🤝 Let's Connect</h2>
 
-[![Email](https://img.shields.io/badge/Email-dogranitin579@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dogranitin579@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nitin--dogra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-dogra)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-nitindogra7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitindogra7)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/🌐_LogoCraft-Live_SaaS-00d4ff?style=for-the-badge&labelColor=0d1117)](https://logocraft.nitindogra.space)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=9999&color=00FF88&center=true&vCenter=true&width=450&height=45&lines=%F0%9F%93%88+CONTRIBUTION+GRAPH" alt="Activity"/>
 
-<br/>
+<br/><br/>
 
-> 💬 *"I don't just write code — I architect solutions, optimize systems, and ship products that work in production."*
->
-> — **Nitin Dogra**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitindogra7&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b6b&area=true&hide_border=true&area_color=001a3d" width="100%" alt="Activity Graph"/>
 
 </div>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a3e,100:0f0f23&height=120&section=footer" width="100%"/>
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<!-- ACHIEVEMENTS TERMINAL -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=9999&color=FF6B6B&center=true&vCenter=true&width=400&height=45&lines=%F0%9F%8F%86+ACHIEVEMENTS" alt="Achievements"/>
+
+</div>
+
+```bash
+nitin@portfolio:~$ cat achievements.log
+
+[✅] Built & deployed AI-powered SaaS — solo, end-to-end, production-live
+     └─ Handles real-money Razorpay transactions
+     └─ Live at: https://logocraft.nitindogra.space
+
+[🔐] Security Engineering
+     └─ JWT auth with rotating refresh tokens + session lifecycle
+     └─ HMAC-verified payment flow — zero trust architecture
+
+[⚡] Performance Optimization
+     └─ Dashboard API: 420ms ─────────────────────► 140ms
+     └─ Redis caching: 62.7% latency reduction | 2.5x speedup
+
+[🤖] AI Media Pipeline
+     └─ Google Imagen + Cloudinary — async generation to delivery
+     └─ Persistent user history tracking across sessions
+
+[🏗️] System Design
+     └─ Clean MVC with modular middleware & protected routes
+     └─ Production-grade .env, CORS, cookie security configs
+
+nitin@portfolio:~$ █
+```
+
+---
+
+<!-- TROPHIES -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=9999&color=FFD700&center=true&vCenter=true&width=400&height=45&lines=%F0%9F%8F%85+GITHUB+TROPHIES" alt="Trophies"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=nitindogra7&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" width="100%" alt="Trophies"/>
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+<!-- CERTIFICATIONS -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=9999&color=FFD700&center=true&vCenter=true&width=450&height=45&lines=%F0%9F%93%9C+CERTIFICATIONS" alt="Certifications"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=0d1117" alt="Udemy"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript%20Certification-FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=00d4ff&labelColor=0d1117" alt="FCC"/>
+
+</div>
+
+---
+
+<!-- CONNECT -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=9999&color=00FF88&center=true&vCenter=true&width=400&height=45&lines=%F0%9F%A4%9D+LET'S+CONNECT" alt="Connect"/>
+
+<br/><br/>
+
+<a href="mailto:dogranitin579@gmail.com">
+  <img src="https://img.shields.io/badge/Email-dogranitin579@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/nitin-dogra">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/nitindogra7">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://logocraft.nitindogra.space">
+  <img src="https://img.shields.io/badge/LogoCraft-Live%20SaaS-00d4ff?style=for-the-badge&labelColor=0d1117" alt="LogoCraft"/>
+</a>
+
+<br/><br/>
+
+<!-- ANIMATED QUOTE CYCLING -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=2500&color=7FFFFF&center=true&vCenter=true&width=700&height=40&lines=%22I+don't+just+write+code+—+I+architect+solutions+%26+ship+products.%22;%22Speed+matters.+420ms+→+140ms.+Redis+is+my+best+friend.%22;%22From+JWT+to+Razorpay+—+security+is+a+feature,+not+an+afterthought.%22;%22Solo+developer.+Production+SaaS.+Real+money.+Real+users.%22" alt="Quote"/>
+
+<br/><br/>
+
+<!-- ANIMATED FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:001a3d,100:000000&height=150&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=00d4ff&animation=twinkling&fontAlignY=65" width="100%"/>
+
+</div>
