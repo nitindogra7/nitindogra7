@@ -17,7 +17,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-ff6b6b?style=for-the-badge&labelColor=0d1117" alt="Focus"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Location-Noida%20India-ff9933?style=for-the-badge&labelColor=0d1117" alt="Location"/>
+<img src="https://img.shields.io/badge/Location-Delhi%20India-ff9933?style=for-the-badge&labelColor=0d1117" alt="Location"/>
 
 <br/><br/>
 
