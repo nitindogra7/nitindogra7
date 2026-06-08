@@ -165,13 +165,13 @@ Sales Nova is a CRM platform for startups to capture website leads, manage works
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nitindogra662&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nitindogra7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=nitindogra662&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=nitindogra7&theme=tokyonight&hide_border=true" />
 
 <br /><br />
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitindogra662&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitindogra7&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -253,7 +253,7 @@ System Design     █████░░░░░░░░░░░  Learning
   Add the GitHub Action for snake animation later, then this section will show your animated contribution snake.
 </p>
 
-<img src="https://raw.githubusercontent.com/nitindogra662/nitindogra662/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nitindogra662/nitindogra7/output/snake.svg" alt="Snake animation" />
 
 </div>
 
