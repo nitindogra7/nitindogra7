@@ -181,7 +181,7 @@ Sales Nova is a CRM platform for startups to capture website leads, manage works
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitindogra662&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitindogra7&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
