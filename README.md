@@ -1,19 +1,19 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:2563eb,70:7c3aed,100:ec4899&text=Nitin%20Dogra&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20SaaS%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- Green Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:064e3b,70:16a34a,100:22c55e&text=Nitin%20Dogra&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20SaaS%20Builder&descAlignY=60&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+LogoCraft+AI+%26+Sales+Nova;Learning+TypeScript+%7C+Docker+%7C+PostgreSQL;Turning+ideas+into+real+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+LogoCraft+AI+%26+Sales+Nova;Learning+TypeScript+%7C+Docker+%7C+PostgreSQL;Turning+ideas+into+real+products" alt="Typing SVG" />
 </a>
 
 <br />
 
 <!-- Profile Badges -->
-<img src="https://komarev.com/ghpvc/?username=nitindogra662&label=Profile%20Views&color=2563eb&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/nitindogra662?label=Followers&style=for-the-badge&color=7c3aed" />
-<img src="https://img.shields.io/github/stars/nitindogra662?label=Stars&style=for-the-badge&color=ec4899" />
+<img src="https://komarev.com/ghpvc/?username=nitindogra7&label=Profile%20Views&color=16a34a&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/nitindogra7?label=Followers&style=for-the-badge&color=22c55e" />
+<img src="https://img.shields.io/github/stars/nitindogra7?label=Stars&style=for-the-badge&color=15803d" />
 
 </div>
 
@@ -61,17 +61,17 @@ const nitin = {
 
 <div align="center">
 
-<a href="https://github.com/nitindogra662">
+<a href="https://github.com/nitindogra7">
   <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-16A34A?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:YOUR-EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-15803D?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://YOUR-PORTFOLIO-LINK.com">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=020617" />
 </a>
 
 </div>
@@ -109,7 +109,7 @@ const nitin = {
 <h3 align="center">LogoCraft AI</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Logo%20Generator-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Logo%20Generator-16A34A?style=for-the-badge" />
 </p>
 
 <p>
@@ -134,7 +134,7 @@ LogoCraft AI is an AI-powered logo generation platform where users can generate 
 <h3 align="center">Sales Nova CRM</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Startup%20CRM-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Startup%20CRM-22C55E?style=for-the-badge" />
 </p>
 
 <p>
@@ -165,13 +165,13 @@ Sales Nova is a CRM platform for startups to capture website leads, manage works
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nitindogra7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nitindogra7&show_icons=true&theme=merko&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=nitindogra7&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=nitindogra7&theme=merko&hide_border=true" />
 
 <br /><br />
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitindogra7&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitindogra7&layout=compact&theme=merko&hide_border=true" />
 
 </div>
 
@@ -181,7 +181,7 @@ Sales Nova is a CRM platform for startups to capture website leads, manage works
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitindogra7&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitindogra7&theme=github-compact&bg_color=020617&color=22c55e&line=16a34a&point=bbf7d0&area=true&hide_border=true" />
 
 </div>
 
@@ -249,11 +249,7 @@ System Design     █████░░░░░░░░░░░  Learning
 
 <div align="center">
 
-<p>
-  Add the GitHub Action for snake animation later, then this section will show your animated contribution snake.
-</p>
-
-<img src="https://raw.githubusercontent.com/nitindogra7/nitindogra7/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nitindogra7/nitindogra7/output/github-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -263,7 +259,7 @@ System Design     █████░░░░░░░░░░░  Learning
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
 </div>
 
@@ -273,6 +269,6 @@ System Design     █████░░░░░░░░░░░  Learning
 
 ## Thanks for visiting my profile
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:ec4899,35:7c3aed,70:2563eb,100:020617" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=145&section=footer&color=0:22c55e,35:16a34a,70:064e3b,100:020617" />
 
 </div>
