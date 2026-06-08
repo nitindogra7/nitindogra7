@@ -253,7 +253,7 @@ System Design     █████░░░░░░░░░░░  Learning
   Add the GitHub Action for snake animation later, then this section will show your animated contribution snake.
 </p>
 
-<img src="https://raw.githubusercontent.com/nitindogra662/nitindogra7/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nitindogra7/nitindogra7/output/snake.svg" alt="Snake animation" />
 
 </div>
 
