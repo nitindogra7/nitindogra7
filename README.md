@@ -8,6 +8,12 @@ Full Stack Developer | MERN Stack | SaaS Products | Backend APIs
 I build clean, scalable, and real-world web applications using React.js, Node.js, Express.js, MongoDB, and modern backend architecture.
 </p>
 
+<p align="center">
+  <a href="https://github.com/nitindogra7">
+    <img src="https://komarev.com/ghpvc/?username=nitindogra7&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -17,6 +23,7 @@ I build clean, scalable, and real-world web applications using React.js, Node.js
 - 💳 Experienced with **Razorpay Payment Integration** and credit-based wallet systems
 - ☁️ Worked with **Cloudinary, Render, Vercel, GitHub, Postman**
 - 🤖 Built **LogoCraft**, an AI-powered logo generation SaaS
+- 📈 Building **Sales Nova**, a CRM and lead management platform for startups
 - 🎯 Interested in SaaS products, startup tools, backend systems, and scalable web apps
 
 ---
@@ -24,25 +31,28 @@ I build clean, scalable, and real-world web applications using React.js, Node.js
 ## 🧑‍💻 Tech Stack
 
 ### Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 ### Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### Tools & Platforms
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render" />
 </p>
 
 ---
 
-## 🔥 Featured Project
+## 🔥 Featured Projects
 
-### LogoCraft — AI Powered Logo Generation SaaS
+### 🚀 LogoCraft — AI Powered Logo Generation SaaS
 
 LogoCraft is a full-stack SaaS application that allows users to generate AI-based logos using prompts and style selection.
 
@@ -62,12 +72,31 @@ LogoCraft is a full-stack SaaS application that allows users to generate AI-base
 
 ---
 
+### 📊 Sales Nova — CRM & Lead Management Platform
+
+Sales Nova is a full-stack CRM platform built for startups and small teams to manage leads, users, roles, and API-based website lead capture.
+
+**Key Features:**
+
+- Role-based authentication for owner, admin, and sales users  
+- API key generation for external website lead capture  
+- Lead management dashboard  
+- Protected backend APIs  
+- Workspace-based architecture  
+- React + Tailwind responsive UI  
+- Node.js, Express.js, MongoDB backend  
+
+💻 **GitHub Repo:** [View Repository](https://github.com/nitindogra7)
+
+---
+
 ## 📌 What I’m Currently Working On
 
 - Building full-stack SaaS products  
 - Improving backend architecture and API performance  
 - Learning scalable authentication and payment flows  
 - Creating production-ready projects for startups and agencies  
+- Improving TypeScript, Docker, PostgreSQL, and system design basics  
 
 ---
 
@@ -100,7 +129,7 @@ LogoCraft is a full-stack SaaS application that allows users to generate AI-base
   <a href="https://github.com/nitindogra7">
     <img src="https://img.shields.io/badge/GitHub-nitindogra7-181717?style=for-the-badge&logo=github" />
   </a>
-  
+
   <a href="https://linkedin.com/in/nitin-dogra">
     <img src="https://img.shields.io/badge/LinkedIn-Nitin%20Dogra-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
