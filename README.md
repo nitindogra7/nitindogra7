@@ -1,146 +1,278 @@
-<h1 align="center">Hi 👋, I'm Nitin Dogra</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer | MERN Stack | SaaS Products | Backend APIs
-</h3>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:2563eb,70:7c3aed,100:ec4899&text=Nitin%20Dogra&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20SaaS%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<p align="center">
-I build clean, scalable, and real-world web applications using React.js, Node.js, Express.js, MongoDB, and modern backend architecture.
-</p>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+LogoCraft+AI+%26+Sales+Nova;Learning+TypeScript+%7C+Docker+%7C+PostgreSQL;Turning+ideas+into+real+products" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/nitindogra7">
-    <img src="https://komarev.com/ghpvc/?username=nitindogra7&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
+<br />
 
----
+<!-- Profile Badges -->
+<img src="https://komarev.com/ghpvc/?username=nitindogra662&label=Profile%20Views&color=2563eb&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/nitindogra662?label=Followers&style=for-the-badge&color=7c3aed" />
+<img src="https://img.shields.io/github/stars/nitindogra662?label=Stars&style=for-the-badge&color=ec4899" />
 
-## 🚀 About Me
-
-- 💻 Full Stack Developer focused on building practical web products  
-- 🛠️ Skilled in **MERN Stack, REST APIs, JWT Authentication, MVC Architecture**
-- 💳 Experienced with **Razorpay Payment Integration** and credit-based wallet systems
-- ☁️ Worked with **Cloudinary, Render, Vercel, GitHub, Postman**
-- 🤖 Built **LogoCraft**, an AI-powered logo generation SaaS
-- 📈 Building **Sales Nova**, a CRM and lead management platform for startups
-- 🎯 Interested in SaaS products, startup tools, backend systems, and scalable web apps
+</div>
 
 ---
 
-## 🧑‍💻 Tech Stack
+<div align="center">
+
+## Hey, I'm Nitin Dogra
+
+### Full Stack Developer focused on building clean, scalable and real-world web applications.
+
+I build production-style projects using **React, Node.js, Express, MongoDB and Tailwind CSS**.  
+Currently improving **TypeScript, backend architecture, PostgreSQL, Docker and system design**.
+
+</div>
+
+---
+
+## About Me
+
+<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+```js
+const nitin = {
+  role: "Full Stack Developer",
+  location: "India",
+  currentFocus: "Building production-ready SaaS projects",
+  mainStack: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
+  learning: ["TypeScript", "Docker", "PostgreSQL", "Redis", "System Design"],
+  projects: ["LogoCraft AI", "Sales Nova CRM"],
+  goal: "Get a strong developer internship and build real-world products"
+};
+```
+
+- Building **MERN stack SaaS applications**
+- Interested in **backend systems, dashboards and AI tools**
+- Learning **advanced TypeScript and production-level architecture**
+- Open to **internship, freelance and remote opportunities**
+
+<br clear="right"/>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/nitindogra662">
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:YOUR-EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://YOUR-PORTFOLIO-LINK.com">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis" />
 
 ### Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render,docker" />
+
+</div>
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
-### 🚀 LogoCraft — AI Powered Logo Generation SaaS
+<div align="center">
 
-LogoCraft is a full-stack SaaS application that allows users to generate AI-based logos using prompts and style selection.
+<table>
+<tr>
+<td width="50%">
 
-**Key Features:**
-
-- AI-powered logo generation  
-- JWT authentication with protected routes  
-- Credit-based usage system  
-- Razorpay payment integration  
-- Cloudinary asset storage  
-- User dashboard with image history  
-- Responsive React + Tailwind UI  
-- Modular Express.js backend with MongoDB  
-
-🔗 **Live Project:** [logocraft.nitindogra.space](https://logocraft.nitindogra.space)  
-💻 **GitHub Repo:** [View Repository](https://github.com/nitindogra7)
-
----
-
-### 📊 Sales Nova — CRM & Lead Management Platform
-
-Sales Nova is a full-stack CRM platform built for startups and small teams to manage leads, users, roles, and API-based website lead capture.
-
-**Key Features:**
-
-- Role-based authentication for owner, admin, and sales users  
-- API key generation for external website lead capture  
-- Lead management dashboard  
-- Protected backend APIs  
-- Workspace-based architecture  
-- React + Tailwind responsive UI  
-- Node.js, Express.js, MongoDB backend  
-
-💻 **GitHub Repo:** [View Repository](https://github.com/nitindogra7)
-
----
-
-## 📌 What I’m Currently Working On
-
-- Building full-stack SaaS products  
-- Improving backend architecture and API performance  
-- Learning scalable authentication and payment flows  
-- Creating production-ready projects for startups and agencies  
-- Improving TypeScript, Docker, PostgreSQL, and system design basics  
-
----
-
-## 📊 GitHub Stats
+<h3 align="center">LogoCraft AI</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitindogra7&show_icons=true&theme=tokyonight" alt="Nitin's GitHub Stats" />
+  <img src="https://img.shields.io/badge/AI%20Logo%20Generator-2563EB?style=for-the-badge" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitindogra7&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitindogra7&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 Certifications
-
-- Full Stack Development — Udemy  
-- JavaScript Certification — FreeCodeCamp  
-
----
-
-## 📫 Connect With Me
 
 <p>
-  <a href="https://github.com/nitindogra7">
-    <img src="https://img.shields.io/badge/GitHub-nitindogra7-181717?style=for-the-badge&logo=github" />
-  </a>
-
-  <a href="https://linkedin.com/in/nitin-dogra">
-    <img src="https://img.shields.io/badge/LinkedIn-Nitin%20Dogra-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="mailto:dogranitin579@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dogranitin579%40gmail.com-D14836?style=for-the-badge&logo=gmail" />
-  </a>
+LogoCraft AI is an AI-powered logo generation platform where users can generate logos using prompts, manage credits and download generated images.
 </p>
+
+**Features**
+- JWT authentication with refresh tokens
+- Credit-based logo generation
+- Razorpay payment integration
+- User image history
+- Download generated logos
+- Modern responsive dashboard
+
+**Tech Used**
+
+`React` `Node.js` `Express` `MongoDB` `JWT` `Razorpay` `Tailwind CSS`
+
+</td>
+<td width="50%">
+
+<h3 align="center">Sales Nova CRM</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Startup%20CRM-7C3AED?style=for-the-badge" />
+</p>
+
+<p>
+Sales Nova is a CRM platform for startups to capture website leads, manage workspace users, API keys and role-based dashboards.
+</p>
+
+**Features**
+- Owner, admin and sales roles
+- Email OTP verification
+- API key based lead capture
+- Lead management dashboard
+- Workspace management
+- TanStack Query based frontend
+
+**Tech Used**
+
+`React` `Node.js` `Express` `MongoDB` `Zod` `JWT` `Nodemailer` `TanStack Query`
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<h3 align="center">
-Building real-world products, one project at a time 🚀
-</h3>
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nitindogra662&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=nitindogra662&theme=tokyonight&hide_border=true" />
+
+<br /><br />
+
+<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitindogra662&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitindogra662&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## Current Learning Roadmap
+
+```txt
+TypeScript        █████████░░░░░░░░  Improving
+Backend Auth      ████████████░░░░  Strong
+MERN Stack        █████████████░░░  Strong
+Docker            █████░░░░░░░░░░░  Learning
+PostgreSQL        ██████░░░░░░░░░░  Learning
+System Design     █████░░░░░░░░░░░  Learning
+```
+
+---
+
+## What I Can Build
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <img width="45" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" />
+  <br />
+  <b>Full Stack Apps</b>
+</td>
+<td align="center" width="33%">
+  <img width="45" src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png" />
+  <br />
+  <b>REST APIs</b>
+</td>
+<td align="center" width="33%">
+  <img width="45" src="https://cdn-icons-png.flaticon.com/512/10061/10061707.png" />
+  <br />
+  <b>CRM Dashboards</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <img width="45" src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" />
+  <br />
+  <b>Auth Systems</b>
+</td>
+<td align="center" width="33%">
+  <img width="45" src="https://cdn-icons-png.flaticon.com/512/1170/1170678.png" />
+  <br />
+  <b>Payment Apps</b>
+</td>
+<td align="center" width="33%">
+  <img width="45" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" />
+  <br />
+  <b>AI Tools</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<p>
+  Add the GitHub Action for snake animation later, then this section will show your animated contribution snake.
+</p>
+
+<img src="https://raw.githubusercontent.com/nitindogra662/nitindogra662/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## Quote I Follow
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Thanks for visiting my profile
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:ec4899,35:7c3aed,70:2563eb,100:020617" />
+
+</div>
