@@ -1,274 +1,113 @@
+<!-- Header banner (animated wave) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nitin%20Dogra&fontSize=64&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer&descAlignY=58&descSize=22" alt="header"/>
+
+<!-- Typing animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Nitin+%F0%9F%91%8B;Full+Stack+Developer+%7C+Next.js+%C2%B7+React+%C2%B7+Node.js;I+build+production+web+apps+with+PostgreSQL+%26+Supabase;Currently+interning+at+Sponso+Pvt+Ltd;Open+to+Software+Engineer+roles+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
+
 <div align="center">
 
-<!-- Green Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:064e3b,70:16a34a,100:22c55e&text=Nitin%20Dogra&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20SaaS%20Builder&descAlignY=60&descSize=18&animation=fadeIn" />
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+LogoCraft+AI+%26+Sales+Nova;Learning+TypeScript+%7C+Docker+%7C+PostgreSQL;Turning+ideas+into+real+products" alt="Typing SVG" />
-</a>
-
-<br />
-
-<!-- Profile Badges -->
-<img src="https://komarev.com/ghpvc/?username=nitindogra7&label=Profile%20Views&color=16a34a&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/nitindogra7?label=Followers&style=for-the-badge&color=22c55e" />
-<img src="https://img.shields.io/github/stars/nitindogra7?label=Stars&style=for-the-badge&color=15803d" />
+![Profile Views](https://komarev.com/ghpvc/?username=nitindogra7&label=Profile%20Views&color=0e75b6&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nitin%20Dogra-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-dogra-025497255)
+[![Email](https://img.shields.io/badge/Email-dogranitin579%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dogranitin579@gmail.com)
 
 </div>
 
 ---
 
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science student at **Maharishi University of Information Technology** (2023 – 2027)
+- 💼 Full Stack Developer Intern @ **Sponso Pvt Ltd** (June 2026 – Present)
+- 🔐 Experienced in REST APIs, JWT auth, OAuth, webhooks and payment integration (Razorpay)
+- ⚡ Passionate about performance optimization and clean, maintainable code
+- 📍 Based in Delhi, India
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
 
-## Hey, I'm Nitin Dogra
-
-### Full Stack Developer focused on building clean, scalable and real-world web applications.
-
-I build production-style projects using **React, Node.js, Express, MongoDB and Tailwind CSS**.  
-Currently improving **TypeScript, backend architecture, PostgreSQL, Docker and system design**.
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,express,postgres,supabase,mongodb,prisma&theme=dark" alt="tech stack" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,render,cloudinary&theme=dark" alt="tools" />
 
 </div>
 
 ---
 
-## About Me
-
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-```js
-const nitin = {
-  role: "Full Stack Developer",
-  location: "India",
-  currentFocus: "Building production-ready SaaS projects",
-  mainStack: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS"],
-  learning: ["TypeScript", "Docker", "PostgreSQL", "Redis", "System Design"],
-  projects: ["LogoCraft AI", "Sales Nova CRM"],
-  goal: "Get a strong developer internship and build real-world products"
-};
-```
-
-- Building **MERN stack SaaS applications**
-- Interested in **backend systems, dashboards and AI tools**
-- Learning **advanced TypeScript and production-level architecture**
-- Open to **internship, freelance and remote opportunities**
-
-<br clear="right"/>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/nitindogra7">
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-16A34A?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:YOUR-EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-15803D?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://YOUR-PORTFOLIO-LINK.com">
-  <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=020617" />
-</a>
-
-</div>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render,docker" />
-
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
+## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-
-<h3 align="center">LogoCraft AI</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Logo%20Generator-16A34A?style=for-the-badge" />
-</p>
-
-<p>
-LogoCraft AI is an AI-powered logo generation platform where users can generate logos using prompts, manage credits and download generated images.
-</p>
-
-**Features**
-- JWT authentication with refresh tokens
-- Credit-based logo generation
-- Razorpay payment integration
-- User image history
-- Download generated logos
-- Modern responsive dashboard
-
-**Tech Used**
-
-`React` `Node.js` `Express` `MongoDB` `JWT` `Razorpay` `Tailwind CSS`
-
-</td>
-<td width="50%">
-
-<h3 align="center">Sales Nova CRM</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Startup%20CRM-22C55E?style=for-the-badge" />
-</p>
-
-<p>
-Sales Nova is a CRM platform for startups to capture website leads, manage workspace users, API keys and role-based dashboards.
-</p>
-
-**Features**
-- Owner, admin and sales roles
-- Email OTP verification
-- API key based lead capture
-- Lead management dashboard
-- Workspace management
-- TanStack Query based frontend
-
-**Tech Used**
-
-`React` `Node.js` `Express` `MongoDB` `Zod` `JWT` `Nodemailer` `TanStack Query`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☕ GetMeChai</h3>
+      <p>Creator monetization platform where creators grow audiences and receive direct fan payments.</p>
+      <ul>
+        <li>Next.js 15 App Router with 10+ REST API routes</li>
+        <li>Posts, likes, nested comments, real-time notifications</li>
+        <li>Razorpay payments with webhook verification</li>
+        <li>Google OAuth via NextAuth.js; 35% faster page loads</li>
+      </ul>
+      <b>Stack:</b> Next.js · React · MongoDB · PostgreSQL · Prisma · Cloudinary<br/><br/>
+      <a href="https://get-me-chai-seven.vercel.app">🔗 Live</a> · <a href="https://github.com/nitindogra7/getMeChai">💻 Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 LogoCraft</h3>
+      <p>AI-powered SaaS that generates custom logos on demand.</p>
+      <ul>
+        <li>Hugging Face image-generation integration</li>
+        <li>JWT auth + credit-based billing with 3 Razorpay plans</li>
+        <li>5+ REST endpoints, modular controller/service design</li>
+        <li>30% faster responses; dashboard load 420ms → 140ms</li>
+      </ul>
+      <b>Stack:</b> React · Node.js · Express · Hugging Face API · JWT<br/><br/>
+      <a href="https://logocraft.nitindogra.space">🔗 Live</a> · <a href="https://github.com/nitindogra7/logoCraft">💻 Code</a>
+    </td>
+  </tr>
 </table>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nitindogra7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitindogra7&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nitindogra7&theme=tokyo-night&hide_border=true" alt="streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitindogra7&theme=react-dark&hide_border=true&area=true" alt="activity graph" width="100%" />
 </div>
 
 ---
 
-## GitHub Stats
+## 🎯 Currently
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=F7B93E&center=true&vCenter=true&width=650&lines=Building+production+features+at+Sponso;Writing+secure+REST+APIs+with+JWT;Sharpening+DSA+%26+system+design;Shipping+side+projects+with+Next.js+%2B+Supabase" alt="currently" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to **Software Engineer / Full Stack Developer** opportunities. Feel free to reach out!
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nitindogra7&show_icons=true&theme=merko&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=nitindogra7&theme=merko&hide_border=true" />
-
-<br /><br />
-
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitindogra7&layout=compact&theme=merko&hide_border=true" />
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-dogra-025497255)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dogranitin579@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitindogra7)
 
 </div>
 
----
-
-## Activity Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitindogra7&theme=github-compact&bg_color=020617&color=22c55e&line=16a34a&point=bbf7d0&area=true&hide_border=true" />
-
-</div>
-
----
-
-## Current Learning Roadmap
-
-```txt
-TypeScript        █████████░░░░░░░░  Improving
-Backend Auth      ████████████░░░░  Strong
-MERN Stack        █████████████░░░  Strong
-Docker            █████░░░░░░░░░░░  Learning
-PostgreSQL        ██████░░░░░░░░░░  Learning
-System Design     █████░░░░░░░░░░░  Learning
-```
-
----
-
-## What I Can Build
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-  <img width="45" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" />
-  <br />
-  <b>Full Stack Apps</b>
-</td>
-<td align="center" width="33%">
-  <img width="45" src="https://cdn-icons-png.flaticon.com/512/2920/2920244.png" />
-  <br />
-  <b>REST APIs</b>
-</td>
-<td align="center" width="33%">
-  <img width="45" src="https://cdn-icons-png.flaticon.com/512/10061/10061707.png" />
-  <br />
-  <b>CRM Dashboards</b>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-  <img width="45" src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" />
-  <br />
-  <b>Auth Systems</b>
-</td>
-<td align="center" width="33%">
-  <img width="45" src="https://cdn-icons-png.flaticon.com/512/1170/1170678.png" />
-  <br />
-  <b>Payment Apps</b>
-</td>
-<td align="center" width="33%">
-  <img width="45" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" />
-  <br />
-  <b>AI Tools</b>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nitindogra7/nitindogra7/output/github-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## Quote I Follow
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-</div>
-
----
-
-<div align="center">
-
-## Thanks for visiting my profile
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=145&section=footer&color=0:22c55e,35:16a34a,70:064e3b,100:020617" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
